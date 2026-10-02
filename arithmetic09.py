@@ -1,0 +1,5 @@
+ a = int(8)
+ b = int(3)
+ c = int(2)
+ d = int(4)
+ print(a+b-c*d)
